@@ -14,4 +14,5 @@ variable "tf_workshop_ex1_subnet_id" {
 variable "student_id" {
   type        = string
   description = "student-37"
+  default = "student-37"
 }
